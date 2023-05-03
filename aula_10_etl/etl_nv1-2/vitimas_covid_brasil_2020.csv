@@ -1,0 +1,2001 @@
+id,cidade,estado,num_vitimas
+1,Fortaleza,CE,29
+2,Florianópolis,SC,53
+3,Vitória,ES,75
+4,Cuiabá,MT,71
+5,Cuiabá,MT,45
+6,Campo Grande,MS,86
+7,Salvador,BA,57
+8,Curitiba,PR,19
+9,Teresina,PI,56
+10,São Luís,MA,95
+11,Belém,PA,74
+12,São Luís,MA,54
+13,Natal,RN,83
+14,Belo Horizonte,MG,55
+15,Goiânia,GO,38
+16,Recife,PE,6
+17,Curitiba,PR,8
+18,Recife,PE,11
+19,Belém,PA,24
+20,Porto Alegre,RS,54
+21,Manaus,AM,5
+22,Belém,PA,99
+23,Salvador,BA,82
+24,Brasília,DF,4
+25,Cuiabá,MT,27
+26,São Paulo,SP,2
+27,Curitiba,PR,93
+28,Belo Horizonte,MG,70
+29,Recife,PE,37
+30,Recife,PE,69
+31,Goiânia,GO,25
+32,Teresina,PI,18
+33,Manaus,AM,44
+34,Porto Alegre,RS,11
+35,Salvador,BA,40
+36,Natal,RN,5
+37,Vitória,ES,17
+38,Porto Alegre,RS,6
+39,Curitiba,PR,76
+40,Cuiabá,MT,83
+41,Salvador,BA,65
+42,Teresina,PI,17
+43,São Luís,MA,45
+44,São Luís,MA,42
+45,Salvador,BA,88
+46,Natal,RN,23
+47,Porto Alegre,RS,94
+48,João Pessoa,PB,65
+49,Belém,PA,42
+50,Porto Alegre,RS,79
+51,Recife,PE,90
+52,Cuiabá,MT,47
+53,Salvador,BA,36
+54,Fortaleza,CE,69
+55,Belo Horizonte,MG,91
+56,Belém,PA,48
+57,São Paulo,SP,61
+58,Vitória,ES,50
+59,Recife,PE,10
+60,Fortaleza,CE,48
+61,Porto Alegre,RS,85
+62,Brasília,DF,34
+63,Curitiba,PR,53
+64,Belém,PA,51
+65,Campo Grande,MS,5
+66,Recife,PE,62
+67,Rio de Janeiro,RJ,26
+68,Natal,RN,38
+69,Vitória,ES,47
+70,Brasília,DF,47
+71,Porto Alegre,RS,50
+72,São Paulo,SP,24
+73,Cuiabá,MT,55
+74,Rio de Janeiro,RJ,10
+75,Teresina,PI,56
+76,Recife,PE,18
+77,Belo Horizonte,MG,98
+78,Florianópolis,SC,5
+79,João Pessoa,PB,77
+80,Cuiabá,MT,24
+81,Natal,RN,98
+82,Rio de Janeiro,RJ,6
+83,Campo Grande,MS,68
+84,Goiânia,GO,46
+85,Fortaleza,CE,65
+86,Fortaleza,CE,85
+87,Fortaleza,CE,34
+88,Natal,RN,7
+89,Manaus,AM,5
+90,Curitiba,PR,100
+91,Brasília,DF,40
+92,Teresina,PI,62
+93,Rio de Janeiro,RJ,79
+94,Belo Horizonte,MG,18
+95,Belo Horizonte,MG,42
+96,Belém,PA,27
+97,Vitória,ES,25
+98,Belo Horizonte,MG,74
+99,Salvador,BA,58
+100,Brasília,DF,42
+101,Cuiabá,MT,86
+102,Brasília,DF,77
+103,Belo Horizonte,MG,18
+104,Curitiba,PR,84
+105,Florianópolis,SC,72
+106,João Pessoa,PB,93
+107,Recife,PE,28
+108,Florianópolis,SC,15
+109,Porto Alegre,RS,88
+110,Cuiabá,MT,87
+111,Curitiba,PR,33
+112,Brasília,DF,37
+113,Belém,PA,12
+114,Florianópolis,SC,60
+115,Fortaleza,CE,63
+116,Cuiabá,MT,14
+117,Vitória,ES,21
+118,Natal,RN,33
+119,Recife,PE,7
+120,Teresina,PI,94
+121,Fortaleza,CE,6
+122,João Pessoa,PB,33
+123,Curitiba,PR,100
+124,Salvador,BA,88
+125,Belém,PA,23
+126,Vitória,ES,49
+127,Salvador,BA,56
+128,Brasília,DF,40
+129,João Pessoa,PB,13
+130,Campo Grande,MS,41
+131,Manaus,AM,71
+132,São Luís,MA,12
+133,Natal,RN,25
+134,Belém,PA,51
+135,Natal,RN,88
+136,Cuiabá,MT,60
+137,Curitiba,PR,29
+138,Belo Horizonte,MG,8
+139,Belém,PA,49
+140,Vitória,ES,8
+141,Salvador,BA,24
+142,Manaus,AM,35
+143,Fortaleza,CE,40
+144,Belém,PA,75
+145,João Pessoa,PB,98
+146,Teresina,PI,8
+147,Cuiabá,MT,77
+148,Brasília,DF,31
+149,Belo Horizonte,MG,7
+150,Porto Alegre,RS,75
+151,Manaus,AM,32
+152,Porto Alegre,RS,93
+153,Manaus,AM,91
+154,Campo Grande,MS,19
+155,Curitiba,PR,51
+156,Teresina,PI,70
+157,Campo Grande,MS,81
+158,Florianópolis,SC,60
+159,Cuiabá,MT,29
+160,Salvador,BA,47
+161,Salvador,BA,93
+162,Goiânia,GO,86
+163,Fortaleza,CE,65
+164,Belém,PA,9
+165,Natal,RN,78
+166,João Pessoa,PB,19
+167,Rio de Janeiro,RJ,35
+168,São Paulo,SP,24
+169,Manaus,AM,96
+170,Belo Horizonte,MG,72
+171,Curitiba,PR,97
+172,Fortaleza,CE,10
+173,Recife,PE,25
+174,São Luís,MA,35
+175,Belém,PA,67
+176,Recife,PE,25
+177,Rio de Janeiro,RJ,32
+178,Campo Grande,MS,79
+179,Belém,PA,90
+180,João Pessoa,PB,7
+181,João Pessoa,PB,85
+182,Manaus,AM,45
+183,Cuiabá,MT,41
+184,Cuiabá,MT,39
+185,São Paulo,SP,74
+186,São Luís,MA,11
+187,Cuiabá,MT,46
+188,Goiânia,GO,40
+189,Cuiabá,MT,93
+190,São Luís,MA,61
+191,Curitiba,PR,7
+192,Fortaleza,CE,52
+193,Campo Grande,MS,85
+194,São Paulo,SP,86
+195,Rio de Janeiro,RJ,85
+196,Cuiabá,MT,79
+197,Rio de Janeiro,RJ,6
+198,Recife,PE,82
+199,Florianópolis,SC,95
+200,Campo Grande,MS,46
+201,Belém,PA,64
+202,Rio de Janeiro,RJ,49
+203,Vitória,ES,23
+204,Brasília,DF,60
+205,Belo Horizonte,MG,22
+206,Manaus,AM,23
+207,Manaus,AM,100
+208,Porto Alegre,RS,7
+209,Cuiabá,MT,39
+210,Manaus,AM,84
+211,Curitiba,PR,11
+212,Fortaleza,CE,41
+213,Fortaleza,CE,44
+214,Rio de Janeiro,RJ,67
+215,Vitória,ES,84
+216,Belo Horizonte,MG,11
+217,Cuiabá,MT,4
+218,Natal,RN,61
+219,Belo Horizonte,MG,70
+220,Belém,PA,23
+221,João Pessoa,PB,71
+222,Rio de Janeiro,RJ,30
+223,Cuiabá,MT,57
+224,Recife,PE,85
+225,Campo Grande,MS,47
+226,São Paulo,SP,57
+227,Belém,PA,11
+228,Natal,RN,89
+229,Curitiba,PR,80
+230,Teresina,PI,14
+231,Fortaleza,CE,29
+232,São Luís,MA,72
+233,Rio de Janeiro,RJ,53
+234,Vitória,ES,21
+235,Belo Horizonte,MG,26
+236,São Luís,MA,74
+237,São Paulo,SP,30
+238,João Pessoa,PB,47
+239,Campo Grande,MS,47
+240,Rio de Janeiro,RJ,17
+241,Brasília,DF,87
+242,Campo Grande,MS,68
+243,Cuiabá,MT,50
+244,São Paulo,SP,21
+245,Curitiba,PR,80
+246,São Paulo,SP,87
+247,Rio de Janeiro,RJ,94
+248,Goiânia,GO,27
+249,Goiânia,GO,37
+250,Fortaleza,CE,75
+251,Teresina,PI,39
+252,Teresina,PI,81
+253,Recife,PE,24
+254,Porto Alegre,RS,49
+255,Teresina,PI,49
+256,Florianópolis,SC,45
+257,Cuiabá,MT,1
+258,São Paulo,SP,5
+259,Porto Alegre,RS,23
+260,São Paulo,SP,88
+261,Teresina,PI,30
+262,São Paulo,SP,55
+263,São Luís,MA,48
+264,Recife,PE,76
+265,Curitiba,PR,26
+266,Manaus,AM,63
+267,Campo Grande,MS,64
+268,Brasília,DF,34
+269,Salvador,BA,88
+270,Goiânia,GO,58
+271,Campo Grande,MS,80
+272,Rio de Janeiro,RJ,33
+273,São Paulo,SP,10
+274,São Luís,MA,41
+275,Curitiba,PR,51
+276,Belém,PA,4
+277,Cuiabá,MT,81
+278,Cuiabá,MT,45
+279,Recife,PE,36
+280,Belém,PA,94
+281,Florianópolis,SC,38
+282,Brasília,DF,82
+283,Belém,PA,70
+284,Florianópolis,SC,73
+285,Goiânia,GO,39
+286,Porto Alegre,RS,7
+287,Brasília,DF,39
+288,Recife,PE,48
+289,São Luís,MA,79
+290,Florianópolis,SC,8
+291,Salvador,BA,20
+292,Belém,PA,12
+293,Belém,PA,41
+294,Fortaleza,CE,67
+295,Belo Horizonte,MG,7
+296,Fortaleza,CE,67
+297,Salvador,BA,81
+298,Porto Alegre,RS,24
+299,Cuiabá,MT,98
+300,Porto Alegre,RS,74
+301,Recife,PE,11
+302,Goiânia,GO,63
+303,Porto Alegre,RS,47
+304,Vitória,ES,21
+305,Curitiba,PR,57
+306,Florianópolis,SC,96
+307,São Paulo,SP,7
+308,Recife,PE,39
+309,Rio de Janeiro,RJ,20
+310,Vitória,ES,99
+311,Teresina,PI,33
+312,Rio de Janeiro,RJ,70
+313,Goiânia,GO,65
+314,Cuiabá,MT,91
+315,João Pessoa,PB,11
+316,Campo Grande,MS,94
+317,Vitória,ES,20
+318,João Pessoa,PB,32
+319,Vitória,ES,10
+320,Salvador,BA,97
+321,São Luís,MA,11
+322,Curitiba,PR,8
+323,Curitiba,PR,17
+324,Natal,RN,38
+325,Cuiabá,MT,89
+326,João Pessoa,PB,98
+327,Natal,RN,34
+328,Porto Alegre,RS,7
+329,Recife,PE,21
+330,Goiânia,GO,87
+331,Teresina,PI,98
+332,Vitória,ES,93
+333,Florianópolis,SC,96
+334,São Luís,MA,11
+335,São Paulo,SP,6
+336,Rio de Janeiro,RJ,90
+337,Recife,PE,36
+338,Goiânia,GO,70
+339,Cuiabá,MT,65
+340,Brasília,DF,10
+341,Rio de Janeiro,RJ,56
+342,Florianópolis,SC,96
+343,Fortaleza,CE,79
+344,Goiânia,GO,83
+345,Vitória,ES,14
+346,Porto Alegre,RS,73
+347,Natal,RN,54
+348,Goiânia,GO,58
+349,Vitória,ES,15
+350,São Paulo,SP,44
+351,Brasília,DF,33
+352,Goiânia,GO,55
+353,Belém,PA,92
+354,Recife,PE,29
+355,Teresina,PI,5
+356,Manaus,AM,84
+357,João Pessoa,PB,38
+358,Goiânia,GO,39
+359,Goiânia,GO,8
+360,Natal,RN,84
+361,Curitiba,PR,3
+362,Vitória,ES,78
+363,Cuiabá,MT,34
+364,Campo Grande,MS,50
+365,Cuiabá,MT,45
+366,Fortaleza,CE,40
+367,Natal,RN,87
+368,Curitiba,PR,72
+369,Belo Horizonte,MG,74
+370,Curitiba,PR,39
+371,Vitória,ES,29
+372,Campo Grande,MS,22
+373,Florianópolis,SC,95
+374,Brasília,DF,35
+375,São Paulo,SP,16
+376,João Pessoa,PB,48
+377,Curitiba,PR,35
+378,Manaus,AM,1
+379,Porto Alegre,RS,2
+380,Goiânia,GO,1
+381,Vitória,ES,47
+382,Cuiabá,MT,21
+383,Teresina,PI,63
+384,Brasília,DF,9
+385,Recife,PE,95
+386,Fortaleza,CE,68
+387,São Paulo,SP,64
+388,Belém,PA,12
+389,Curitiba,PR,84
+390,Cuiabá,MT,29
+391,Campo Grande,MS,65
+392,Manaus,AM,99
+393,Vitória,ES,12
+394,Cuiabá,MT,63
+395,Salvador,BA,87
+396,Salvador,BA,90
+397,Salvador,BA,90
+398,Cuiabá,MT,80
+399,São Luís,MA,89
+400,São Luís,MA,22
+401,Curitiba,PR,65
+402,Salvador,BA,77
+403,Natal,RN,75
+404,Belém,PA,5
+405,Brasília,DF,20
+406,Salvador,BA,76
+407,João Pessoa,PB,20
+408,Belo Horizonte,MG,46
+409,Cuiabá,MT,29
+410,São Paulo,SP,88
+411,Rio de Janeiro,RJ,30
+412,Curitiba,PR,57
+413,São Luís,MA,54
+414,Teresina,PI,41
+415,Rio de Janeiro,RJ,83
+416,Fortaleza,CE,65
+417,Belo Horizonte,MG,92
+418,Goiânia,GO,17
+419,Recife,PE,41
+420,Florianópolis,SC,85
+421,Cuiabá,MT,8
+422,Florianópolis,SC,8
+423,Curitiba,PR,49
+424,Florianópolis,SC,2
+425,São Luís,MA,56
+426,Cuiabá,MT,63
+427,João Pessoa,PB,39
+428,Cuiabá,MT,24
+429,Brasília,DF,83
+430,Manaus,AM,60
+431,Florianópolis,SC,77
+432,Porto Alegre,RS,98
+433,Vitória,ES,82
+434,Campo Grande,MS,91
+435,Manaus,AM,96
+436,Salvador,BA,77
+437,Belo Horizonte,MG,39
+438,Rio de Janeiro,RJ,22
+439,Teresina,PI,46
+440,Natal,RN,85
+441,Brasília,DF,15
+442,Goiânia,GO,42
+443,Cuiabá,MT,43
+444,São Paulo,SP,62
+445,Salvador,BA,36
+446,São Luís,MA,72
+447,Belo Horizonte,MG,54
+448,Rio de Janeiro,RJ,61
+449,Fortaleza,CE,77
+450,Teresina,PI,40
+451,Rio de Janeiro,RJ,87
+452,Porto Alegre,RS,87
+453,Florianópolis,SC,29
+454,Natal,RN,100
+455,Salvador,BA,47
+456,Vitória,ES,64
+457,Manaus,AM,10
+458,Natal,RN,95
+459,João Pessoa,PB,99
+460,Teresina,PI,50
+461,Recife,PE,84
+462,Vitória,ES,94
+463,Goiânia,GO,4
+464,Salvador,BA,32
+465,São Paulo,SP,83
+466,São Luís,MA,64
+467,Vitória,ES,67
+468,Belém,PA,16
+469,Belo Horizonte,MG,61
+470,Florianópolis,SC,43
+471,Recife,PE,60
+472,João Pessoa,PB,69
+473,Goiânia,GO,36
+474,Natal,RN,17
+475,São Luís,MA,35
+476,Vitória,ES,22
+477,Curitiba,PR,82
+478,Brasília,DF,52
+479,Fortaleza,CE,68
+480,Recife,PE,58
+481,Rio de Janeiro,RJ,2
+482,Curitiba,PR,77
+483,Florianópolis,SC,50
+484,Teresina,PI,14
+485,Brasília,DF,97
+486,São Luís,MA,89
+487,João Pessoa,PB,41
+488,João Pessoa,PB,54
+489,Manaus,AM,33
+490,Salvador,BA,73
+491,Salvador,BA,38
+492,Porto Alegre,RS,36
+493,Natal,RN,49
+494,Curitiba,PR,36
+495,Recife,PE,51
+496,Goiânia,GO,34
+497,Florianópolis,SC,7
+498,Florianópolis,SC,90
+499,Belém,PA,30
+500,São Luís,MA,30
+501,São Paulo,SP,85
+502,Fortaleza,CE,42
+503,Salvador,BA,41
+504,Goiânia,GO,8
+505,São Paulo,SP,34
+506,São Paulo,SP,58
+507,Natal,RN,72
+508,Natal,RN,91
+509,Rio de Janeiro,RJ,88
+510,Vitória,ES,65
+511,Recife,PE,17
+512,Fortaleza,CE,88
+513,Goiânia,GO,34
+514,Curitiba,PR,1
+515,Recife,PE,24
+516,Campo Grande,MS,75
+517,Recife,PE,29
+518,Salvador,BA,55
+519,Campo Grande,MS,77
+520,Salvador,BA,91
+521,Vitória,ES,1
+522,Vitória,ES,94
+523,Brasília,DF,63
+524,Goiânia,GO,51
+525,Curitiba,PR,61
+526,Recife,PE,86
+527,Florianópolis,SC,58
+528,Recife,PE,4
+529,Porto Alegre,RS,41
+530,Teresina,PI,19
+531,Recife,PE,57
+532,Brasília,DF,20
+533,Recife,PE,64
+534,Florianópolis,SC,18
+535,Recife,PE,54
+536,Teresina,PI,16
+537,Florianópolis,SC,24
+538,Rio de Janeiro,RJ,31
+539,Belém,PA,55
+540,São Paulo,SP,4
+541,Goiânia,GO,55
+542,Brasília,DF,62
+543,São Paulo,SP,72
+544,Rio de Janeiro,RJ,38
+545,Belém,PA,80
+546,Cuiabá,MT,82
+547,Recife,PE,87
+548,Cuiabá,MT,75
+549,Salvador,BA,25
+550,Campo Grande,MS,39
+551,Porto Alegre,RS,14
+552,Natal,RN,79
+553,Belém,PA,87
+554,Salvador,BA,68
+555,Salvador,BA,19
+556,Fortaleza,CE,72
+557,Vitória,ES,71
+558,Vitória,ES,51
+559,Rio de Janeiro,RJ,47
+560,São Paulo,SP,93
+561,Recife,PE,74
+562,Belém,PA,47
+563,Belém,PA,61
+564,Florianópolis,SC,21
+565,Salvador,BA,4
+566,São Luís,MA,64
+567,Vitória,ES,41
+568,Natal,RN,40
+569,Cuiabá,MT,28
+570,Teresina,PI,68
+571,Teresina,PI,5
+572,Manaus,AM,42
+573,Brasília,DF,1
+574,Porto Alegre,RS,76
+575,Curitiba,PR,54
+576,Goiânia,GO,63
+577,Belém,PA,63
+578,Brasília,DF,96
+579,Belém,PA,56
+580,Belém,PA,60
+581,Fortaleza,CE,100
+582,Porto Alegre,RS,41
+583,Brasília,DF,27
+584,Brasília,DF,30
+585,São Luís,MA,7
+586,Goiânia,GO,33
+587,São Luís,MA,30
+588,Florianópolis,SC,26
+589,Campo Grande,MS,4
+590,Manaus,AM,59
+591,Brasília,DF,11
+592,Recife,PE,73
+593,São Paulo,SP,36
+594,Rio de Janeiro,RJ,19
+595,Goiânia,GO,97
+596,Teresina,PI,4
+597,Fortaleza,CE,79
+598,Fortaleza,CE,14
+599,Goiânia,GO,63
+600,Fortaleza,CE,6
+601,São Luís,MA,93
+602,Florianópolis,SC,26
+603,Belo Horizonte,MG,94
+604,Goiânia,GO,50
+605,Manaus,AM,92
+606,Curitiba,PR,81
+607,Belo Horizonte,MG,52
+608,Belém,PA,55
+609,Belém,PA,79
+610,Curitiba,PR,78
+611,João Pessoa,PB,93
+612,Salvador,BA,78
+613,Belém,PA,61
+614,Goiânia,GO,6
+615,Vitória,ES,3
+616,Curitiba,PR,69
+617,Campo Grande,MS,65
+618,Brasília,DF,27
+619,Porto Alegre,RS,63
+620,Florianópolis,SC,87
+621,Goiânia,GO,29
+622,Cuiabá,MT,49
+623,Fortaleza,CE,44
+624,Porto Alegre,RS,34
+625,Belém,PA,18
+626,São Paulo,SP,100
+627,São Paulo,SP,1
+628,Belo Horizonte,MG,96
+629,Brasília,DF,99
+630,Manaus,AM,94
+631,Teresina,PI,78
+632,Fortaleza,CE,50
+633,São Luís,MA,97
+634,Brasília,DF,64
+635,Vitória,ES,79
+636,São Luís,MA,75
+637,Recife,PE,14
+638,Goiânia,GO,37
+639,Teresina,PI,10
+640,Belo Horizonte,MG,80
+641,Goiânia,GO,65
+642,Goiânia,GO,81
+643,Recife,PE,86
+644,Rio de Janeiro,RJ,4
+645,Rio de Janeiro,RJ,71
+646,Porto Alegre,RS,24
+647,Belo Horizonte,MG,37
+648,João Pessoa,PB,71
+649,São Luís,MA,88
+650,São Paulo,SP,66
+651,Florianópolis,SC,33
+652,Salvador,BA,44
+653,Goiânia,GO,52
+654,Cuiabá,MT,45
+655,Recife,PE,56
+656,Teresina,PI,39
+657,Campo Grande,MS,57
+658,Florianópolis,SC,44
+659,Curitiba,PR,85
+660,Natal,RN,86
+661,Belém,PA,3
+662,Natal,RN,100
+663,Fortaleza,CE,78
+664,São Paulo,SP,68
+665,Manaus,AM,87
+666,Natal,RN,82
+667,Florianópolis,SC,74
+668,Recife,PE,90
+669,Belo Horizonte,MG,25
+670,Goiânia,GO,67
+671,São Paulo,SP,100
+672,Campo Grande,MS,34
+673,São Paulo,SP,13
+674,Florianópolis,SC,81
+675,Natal,RN,51
+676,Vitória,ES,43
+677,Manaus,AM,85
+678,Fortaleza,CE,80
+679,Teresina,PI,1
+680,Salvador,BA,16
+681,Belo Horizonte,MG,58
+682,São Paulo,SP,63
+683,Vitória,ES,45
+684,João Pessoa,PB,92
+685,Manaus,AM,17
+686,Teresina,PI,26
+687,São Paulo,SP,95
+688,São Luís,MA,47
+689,Goiânia,GO,71
+690,Teresina,PI,47
+691,Goiânia,GO,77
+692,João Pessoa,PB,47
+693,Vitória,ES,94
+694,Brasília,DF,84
+695,Recife,PE,89
+696,Belo Horizonte,MG,69
+697,Brasília,DF,20
+698,Rio de Janeiro,RJ,81
+699,São Luís,MA,45
+700,Recife,PE,87
+701,Brasília,DF,59
+702,Curitiba,PR,85
+703,Brasília,DF,80
+704,Curitiba,PR,60
+705,Natal,RN,89
+706,Goiânia,GO,62
+707,Belém,PA,100
+708,Campo Grande,MS,54
+709,Manaus,AM,54
+710,Teresina,PI,29
+711,Brasília,DF,84
+712,Belém,PA,16
+713,Fortaleza,CE,24
+714,Recife,PE,57
+715,Belo Horizonte,MG,32
+716,Teresina,PI,28
+717,Curitiba,PR,49
+718,João Pessoa,PB,36
+719,Belo Horizonte,MG,88
+720,Belém,PA,81
+721,Vitória,ES,71
+722,Belém,PA,62
+723,Belo Horizonte,MG,41
+724,João Pessoa,PB,27
+725,Belém,PA,39
+726,Goiânia,GO,39
+727,Recife,PE,70
+728,São Luís,MA,77
+729,Curitiba,PR,44
+730,Salvador,BA,34
+731,Porto Alegre,RS,79
+732,Teresina,PI,83
+733,Recife,PE,84
+734,Porto Alegre,RS,45
+735,Curitiba,PR,52
+736,Belém,PA,6
+737,Cuiabá,MT,36
+738,São Luís,MA,75
+739,Belo Horizonte,MG,40
+740,João Pessoa,PB,98
+741,Vitória,ES,48
+742,Florianópolis,SC,68
+743,Cuiabá,MT,74
+744,Belém,PA,63
+745,Salvador,BA,9
+746,João Pessoa,PB,49
+747,Belo Horizonte,MG,79
+748,Fortaleza,CE,28
+749,Recife,PE,51
+750,Fortaleza,CE,57
+751,São Paulo,SP,73
+752,São Paulo,SP,88
+753,São Luís,MA,38
+754,Cuiabá,MT,81
+755,Natal,RN,60
+756,Porto Alegre,RS,58
+757,Brasília,DF,22
+758,Brasília,DF,26
+759,Salvador,BA,32
+760,Belém,PA,1
+761,Teresina,PI,54
+762,Fortaleza,CE,38
+763,Rio de Janeiro,RJ,25
+764,São Luís,MA,2
+765,Belém,PA,44
+766,João Pessoa,PB,76
+767,Florianópolis,SC,42
+768,Recife,PE,11
+769,São Luís,MA,83
+770,Porto Alegre,RS,78
+771,Goiânia,GO,46
+772,São Paulo,SP,58
+773,Cuiabá,MT,40
+774,Florianópolis,SC,77
+775,Cuiabá,MT,33
+776,Vitória,ES,78
+777,Brasília,DF,58
+778,João Pessoa,PB,10
+779,Teresina,PI,52
+780,Belém,PA,85
+781,Natal,RN,53
+782,Fortaleza,CE,79
+783,Goiânia,GO,57
+784,Cuiabá,MT,88
+785,Teresina,PI,69
+786,Vitória,ES,36
+787,Salvador,BA,57
+788,Curitiba,PR,30
+789,São Paulo,SP,37
+790,Goiânia,GO,30
+791,Belém,PA,95
+792,Salvador,BA,46
+793,Recife,PE,44
+794,Cuiabá,MT,67
+795,Goiânia,GO,67
+796,Recife,PE,75
+797,Brasília,DF,7
+798,São Luís,MA,53
+799,São Luís,MA,89
+800,Florianópolis,SC,32
+801,Recife,PE,3
+802,Teresina,PI,33
+803,Recife,PE,13
+804,Cuiabá,MT,34
+805,São Paulo,SP,33
+806,Vitória,ES,20
+807,Porto Alegre,RS,71
+808,Salvador,BA,37
+809,Salvador,BA,71
+810,João Pessoa,PB,80
+811,Vitória,ES,40
+812,João Pessoa,PB,86
+813,Campo Grande,MS,46
+814,Fortaleza,CE,63
+815,Florianópolis,SC,31
+816,Teresina,PI,77
+817,Fortaleza,CE,56
+818,Brasília,DF,87
+819,Brasília,DF,84
+820,Salvador,BA,48
+821,Salvador,BA,69
+822,Florianópolis,SC,46
+823,Curitiba,PR,67
+824,João Pessoa,PB,72
+825,Belém,PA,45
+826,Curitiba,PR,23
+827,São Paulo,SP,56
+828,Curitiba,PR,30
+829,João Pessoa,PB,7
+830,Belo Horizonte,MG,30
+831,Belém,PA,4
+832,Salvador,BA,36
+833,Goiânia,GO,38
+834,Florianópolis,SC,18
+835,Natal,RN,61
+836,São Paulo,SP,88
+837,Teresina,PI,70
+838,João Pessoa,PB,63
+839,Manaus,AM,18
+840,Brasília,DF,73
+841,Salvador,BA,74
+842,Florianópolis,SC,21
+843,São Luís,MA,54
+844,Rio de Janeiro,RJ,68
+845,Cuiabá,MT,54
+846,Rio de Janeiro,RJ,68
+847,Rio de Janeiro,RJ,64
+848,Rio de Janeiro,RJ,32
+849,Belém,PA,98
+850,Fortaleza,CE,80
+851,Belo Horizonte,MG,41
+852,Belo Horizonte,MG,1
+853,Porto Alegre,RS,74
+854,Natal,RN,47
+855,Cuiabá,MT,100
+856,Teresina,PI,67
+857,Goiânia,GO,94
+858,Salvador,BA,37
+859,Belém,PA,35
+860,Belo Horizonte,MG,63
+861,Goiânia,GO,23
+862,Brasília,DF,95
+863,São Paulo,SP,79
+864,Teresina,PI,56
+865,Manaus,AM,16
+866,Salvador,BA,98
+867,Vitória,ES,36
+868,Curitiba,PR,51
+869,Teresina,PI,15
+870,Teresina,PI,18
+871,Fortaleza,CE,91
+872,Salvador,BA,94
+873,Cuiabá,MT,74
+874,Brasília,DF,44
+875,João Pessoa,PB,7
+876,Cuiabá,MT,86
+877,João Pessoa,PB,54
+878,Recife,PE,48
+879,Florianópolis,SC,81
+880,Vitória,ES,58
+881,Goiânia,GO,17
+882,Florianópolis,SC,35
+883,Vitória,ES,96
+884,Manaus,AM,29
+885,Goiânia,GO,38
+886,São Luís,MA,98
+887,João Pessoa,PB,37
+888,Cuiabá,MT,86
+889,Belém,PA,59
+890,Belo Horizonte,MG,66
+891,Salvador,BA,71
+892,Campo Grande,MS,46
+893,Porto Alegre,RS,61
+894,Vitória,ES,36
+895,Recife,PE,71
+896,Curitiba,PR,58
+897,Natal,RN,2
+898,Fortaleza,CE,45
+899,Belém,PA,50
+900,Curitiba,PR,70
+901,Curitiba,PR,20
+902,Campo Grande,MS,27
+903,Salvador,BA,58
+904,Porto Alegre,RS,60
+905,João Pessoa,PB,58
+906,João Pessoa,PB,94
+907,Natal,RN,1
+908,Vitória,ES,50
+909,São Paulo,SP,94
+910,João Pessoa,PB,10
+911,Cuiabá,MT,19
+912,São Paulo,SP,19
+913,Natal,RN,19
+914,Natal,RN,33
+915,Campo Grande,MS,28
+916,Vitória,ES,20
+917,Manaus,AM,62
+918,Vitória,ES,4
+919,Belo Horizonte,MG,66
+920,Manaus,AM,29
+921,Salvador,BA,32
+922,Recife,PE,81
+923,São Luís,MA,18
+924,Manaus,AM,21
+925,São Paulo,SP,46
+926,Recife,PE,33
+927,Recife,PE,97
+928,Teresina,PI,15
+929,São Paulo,SP,61
+930,Fortaleza,CE,17
+931,Brasília,DF,35
+932,Brasília,DF,27
+933,Belém,PA,42
+934,Recife,PE,75
+935,Teresina,PI,63
+936,João Pessoa,PB,35
+937,São Luís,MA,94
+938,Goiânia,GO,47
+939,Cuiabá,MT,5
+940,Natal,RN,49
+941,Cuiabá,MT,17
+942,São Luís,MA,85
+943,Manaus,AM,8
+944,Porto Alegre,RS,15
+945,São Paulo,SP,13
+946,Fortaleza,CE,90
+947,Rio de Janeiro,RJ,7
+948,São Luís,MA,67
+949,Salvador,BA,97
+950,Porto Alegre,RS,29
+951,São Paulo,SP,56
+952,Florianópolis,SC,84
+953,Belém,PA,51
+954,Teresina,PI,56
+955,Salvador,BA,80
+956,Curitiba,PR,70
+957,Porto Alegre,RS,79
+958,Teresina,PI,56
+959,Brasília,DF,58
+960,Salvador,BA,77
+961,São Luís,MA,84
+962,São Paulo,SP,45
+963,Teresina,PI,71
+964,Brasília,DF,16
+965,Belo Horizonte,MG,63
+966,Cuiabá,MT,89
+967,São Paulo,SP,41
+968,Belém,PA,18
+969,Salvador,BA,87
+970,Florianópolis,SC,58
+971,São Luís,MA,8
+972,Florianópolis,SC,42
+973,Brasília,DF,15
+974,Rio de Janeiro,RJ,60
+975,Campo Grande,MS,31
+976,Belo Horizonte,MG,97
+977,Natal,RN,36
+978,Porto Alegre,RS,29
+979,Belém,PA,50
+980,Florianópolis,SC,12
+981,Teresina,PI,38
+982,Curitiba,PR,63
+983,Salvador,BA,41
+984,Curitiba,PR,31
+985,Manaus,AM,88
+986,Salvador,BA,33
+987,Salvador,BA,98
+988,Salvador,BA,8
+989,Rio de Janeiro,RJ,98
+990,Florianópolis,SC,32
+991,Rio de Janeiro,RJ,42
+992,Goiânia,GO,84
+993,Vitória,ES,10
+994,Manaus,AM,96
+995,São Luís,MA,59
+996,São Luís,MA,84
+997,Salvador,BA,61
+998,Vitória,ES,80
+999,Salvador,BA,55
+1000,Salvador,BA,56
+1001,São Luís,MA,77
+1002,Rio de Janeiro,RJ,22
+1003,Manaus,AM,12
+1004,Fortaleza,CE,5
+1005,Natal,RN,71
+1006,Brasília,DF,10
+1007,São Paulo,SP,10
+1008,Curitiba,PR,58
+1009,Manaus,AM,53
+1010,João Pessoa,PB,91
+1011,Belo Horizonte,MG,44
+1012,São Luís,MA,79
+1013,Belém,PA,100
+1014,Goiânia,GO,14
+1015,Vitória,ES,55
+1016,Belém,PA,19
+1017,Goiânia,GO,40
+1018,João Pessoa,PB,88
+1019,São Luís,MA,98
+1020,Salvador,BA,56
+1021,Salvador,BA,60
+1022,São Paulo,SP,2
+1023,Recife,PE,42
+1024,Manaus,AM,25
+1025,Florianópolis,SC,4
+1026,Porto Alegre,RS,10
+1027,Manaus,AM,2
+1028,Belo Horizonte,MG,16
+1029,Vitória,ES,86
+1030,Campo Grande,MS,76
+1031,Florianópolis,SC,68
+1032,Fortaleza,CE,40
+1033,Teresina,PI,94
+1034,Belém,PA,18
+1035,Recife,PE,80
+1036,Fortaleza,CE,39
+1037,Vitória,ES,51
+1038,Porto Alegre,RS,40
+1039,Florianópolis,SC,23
+1040,Belém,PA,37
+1041,Recife,PE,71
+1042,Belo Horizonte,MG,98
+1043,Brasília,DF,56
+1044,Vitória,ES,32
+1045,Florianópolis,SC,3
+1046,Goiânia,GO,66
+1047,São Luís,MA,58
+1048,São Paulo,SP,20
+1049,Porto Alegre,RS,96
+1050,Florianópolis,SC,77
+1051,Porto Alegre,RS,60
+1052,Belém,PA,18
+1053,Vitória,ES,16
+1054,Recife,PE,97
+1055,Curitiba,PR,1
+1056,Goiânia,GO,67
+1057,Cuiabá,MT,54
+1058,São Paulo,SP,66
+1059,Porto Alegre,RS,74
+1060,Belém,PA,35
+1061,Curitiba,PR,63
+1062,Goiânia,GO,60
+1063,Vitória,ES,64
+1064,Rio de Janeiro,RJ,63
+1065,Recife,PE,17
+1066,São Paulo,SP,80
+1067,Florianópolis,SC,97
+1068,Salvador,BA,68
+1069,Recife,PE,80
+1070,Campo Grande,MS,9
+1071,Natal,RN,9
+1072,Natal,RN,52
+1073,Campo Grande,MS,96
+1074,São Paulo,SP,34
+1075,Florianópolis,SC,48
+1076,Porto Alegre,RS,68
+1077,Brasília,DF,74
+1078,Natal,RN,98
+1079,São Luís,MA,100
+1080,João Pessoa,PB,2
+1081,São Luís,MA,82
+1082,Florianópolis,SC,37
+1083,Recife,PE,45
+1084,Recife,PE,7
+1085,Florianópolis,SC,32
+1086,Fortaleza,CE,62
+1087,Porto Alegre,RS,35
+1088,Teresina,PI,78
+1089,Recife,PE,47
+1090,Fortaleza,CE,59
+1091,Campo Grande,MS,6
+1092,Recife,PE,69
+1093,Fortaleza,CE,78
+1094,Natal,RN,24
+1095,Campo Grande,MS,98
+1096,Vitória,ES,82
+1097,São Paulo,SP,39
+1098,São Luís,MA,81
+1099,João Pessoa,PB,100
+1100,Porto Alegre,RS,84
+1101,Belo Horizonte,MG,8
+1102,Teresina,PI,37
+1103,Recife,PE,32
+1104,Belém,PA,82
+1105,Rio de Janeiro,RJ,95
+1106,Belo Horizonte,MG,93
+1107,Curitiba,PR,23
+1108,São Luís,MA,58
+1109,Brasília,DF,88
+1110,Recife,PE,85
+1111,João Pessoa,PB,82
+1112,Manaus,AM,58
+1113,João Pessoa,PB,98
+1114,Belo Horizonte,MG,79
+1115,Porto Alegre,RS,90
+1116,Salvador,BA,6
+1117,Teresina,PI,55
+1118,Fortaleza,CE,71
+1119,Curitiba,PR,54
+1120,Goiânia,GO,6
+1121,Brasília,DF,96
+1122,Curitiba,PR,17
+1123,Goiânia,GO,27
+1124,Recife,PE,5
+1125,Brasília,DF,18
+1126,Fortaleza,CE,73
+1127,Natal,RN,71
+1128,São Paulo,SP,47
+1129,Belo Horizonte,MG,94
+1130,João Pessoa,PB,61
+1131,Brasília,DF,64
+1132,Porto Alegre,RS,1
+1133,Belém,PA,58
+1134,Belém,PA,75
+1135,Teresina,PI,69
+1136,Belém,PA,77
+1137,Florianópolis,SC,81
+1138,Rio de Janeiro,RJ,32
+1139,Recife,PE,56
+1140,Florianópolis,SC,46
+1141,Teresina,PI,94
+1142,Goiânia,GO,58
+1143,Fortaleza,CE,34
+1144,João Pessoa,PB,62
+1145,Teresina,PI,23
+1146,Campo Grande,MS,35
+1147,Florianópolis,SC,33
+1148,São Paulo,SP,92
+1149,São Luís,MA,22
+1150,Natal,RN,80
+1151,Manaus,AM,63
+1152,Natal,RN,3
+1153,Curitiba,PR,17
+1154,Salvador,BA,91
+1155,Cuiabá,MT,31
+1156,Vitória,ES,52
+1157,São Paulo,SP,77
+1158,Brasília,DF,23
+1159,São Paulo,SP,68
+1160,Natal,RN,36
+1161,Manaus,AM,15
+1162,Goiânia,GO,62
+1163,Salvador,BA,12
+1164,São Luís,MA,78
+1165,Porto Alegre,RS,83
+1166,Florianópolis,SC,88
+1167,Rio de Janeiro,RJ,49
+1168,Recife,PE,46
+1169,Brasília,DF,93
+1170,Goiânia,GO,23
+1171,João Pessoa,PB,25
+1172,São Paulo,SP,53
+1173,Fortaleza,CE,82
+1174,Natal,RN,29
+1175,Rio de Janeiro,RJ,99
+1176,Recife,PE,14
+1177,João Pessoa,PB,97
+1178,Manaus,AM,93
+1179,Belo Horizonte,MG,2
+1180,Recife,PE,76
+1181,Recife,PE,85
+1182,Florianópolis,SC,58
+1183,Porto Alegre,RS,9
+1184,Porto Alegre,RS,62
+1185,João Pessoa,PB,14
+1186,Salvador,BA,87
+1187,Vitória,ES,46
+1188,Belo Horizonte,MG,36
+1189,Goiânia,GO,82
+1190,Campo Grande,MS,66
+1191,Florianópolis,SC,47
+1192,Manaus,AM,57
+1193,São Paulo,SP,89
+1194,Brasília,DF,64
+1195,Vitória,ES,39
+1196,Goiânia,GO,59
+1197,Rio de Janeiro,RJ,43
+1198,Recife,PE,3
+1199,João Pessoa,PB,18
+1200,Campo Grande,MS,21
+1201,Campo Grande,MS,90
+1202,Vitória,ES,8
+1203,Goiânia,GO,37
+1204,Curitiba,PR,81
+1205,Fortaleza,CE,1
+1206,São Paulo,SP,35
+1207,Natal,RN,10
+1208,Rio de Janeiro,RJ,10
+1209,Campo Grande,MS,78
+1210,São Paulo,SP,43
+1211,Goiânia,GO,60
+1212,Recife,PE,13
+1213,Campo Grande,MS,83
+1214,Rio de Janeiro,RJ,20
+1215,Florianópolis,SC,28
+1216,Vitória,ES,61
+1217,Natal,RN,15
+1218,São Luís,MA,85
+1219,São Paulo,SP,86
+1220,Porto Alegre,RS,85
+1221,Salvador,BA,24
+1222,Salvador,BA,2
+1223,Fortaleza,CE,20
+1224,Cuiabá,MT,45
+1225,João Pessoa,PB,29
+1226,Teresina,PI,87
+1227,Manaus,AM,5
+1228,Belo Horizonte,MG,42
+1229,São Luís,MA,42
+1230,Fortaleza,CE,39
+1231,João Pessoa,PB,23
+1232,João Pessoa,PB,97
+1233,São Paulo,SP,35
+1234,Teresina,PI,40
+1235,São Paulo,SP,77
+1236,Florianópolis,SC,16
+1237,Natal,RN,98
+1238,Teresina,PI,93
+1239,Curitiba,PR,55
+1240,Manaus,AM,41
+1241,Florianópolis,SC,13
+1242,Brasília,DF,37
+1243,Fortaleza,CE,76
+1244,Florianópolis,SC,6
+1245,Salvador,BA,90
+1246,Salvador,BA,91
+1247,João Pessoa,PB,28
+1248,Vitória,ES,38
+1249,Belém,PA,27
+1250,Recife,PE,61
+1251,Rio de Janeiro,RJ,92
+1252,Curitiba,PR,93
+1253,Cuiabá,MT,51
+1254,Florianópolis,SC,22
+1255,Salvador,BA,26
+1256,Fortaleza,CE,8
+1257,Brasília,DF,93
+1258,João Pessoa,PB,10
+1259,São Paulo,SP,79
+1260,Fortaleza,CE,30
+1261,Natal,RN,77
+1262,Belém,PA,49
+1263,Natal,RN,92
+1264,São Luís,MA,72
+1265,Campo Grande,MS,90
+1266,Goiânia,GO,66
+1267,Rio de Janeiro,RJ,43
+1268,São Paulo,SP,28
+1269,Campo Grande,MS,40
+1270,Curitiba,PR,59
+1271,João Pessoa,PB,89
+1272,Vitória,ES,95
+1273,Manaus,AM,81
+1274,Vitória,ES,11
+1275,Manaus,AM,47
+1276,Curitiba,PR,27
+1277,Salvador,BA,3
+1278,Teresina,PI,19
+1279,Teresina,PI,56
+1280,Fortaleza,CE,84
+1281,Belo Horizonte,MG,73
+1282,Porto Alegre,RS,30
+1283,Salvador,BA,68
+1284,São Luís,MA,76
+1285,Vitória,ES,26
+1286,São Paulo,SP,65
+1287,Recife,PE,78
+1288,São Paulo,SP,88
+1289,Curitiba,PR,15
+1290,Brasília,DF,42
+1291,Teresina,PI,69
+1292,Salvador,BA,93
+1293,Brasília,DF,59
+1294,Natal,RN,70
+1295,Recife,PE,31
+1296,João Pessoa,PB,46
+1297,Florianópolis,SC,92
+1298,Cuiabá,MT,93
+1299,Goiânia,GO,67
+1300,Vitória,ES,56
+1301,Florianópolis,SC,80
+1302,Brasília,DF,19
+1303,Vitória,ES,6
+1304,Brasília,DF,85
+1305,Natal,RN,91
+1306,Cuiabá,MT,68
+1307,Fortaleza,CE,1
+1308,Curitiba,PR,47
+1309,Fortaleza,CE,32
+1310,Porto Alegre,RS,22
+1311,Rio de Janeiro,RJ,88
+1312,Natal,RN,72
+1313,Florianópolis,SC,67
+1314,Brasília,DF,39
+1315,João Pessoa,PB,75
+1316,Cuiabá,MT,32
+1317,Brasília,DF,39
+1318,Goiânia,GO,76
+1319,Brasília,DF,97
+1320,Cuiabá,MT,35
+1321,Brasília,DF,38
+1322,Natal,RN,79
+1323,Fortaleza,CE,20
+1324,São Luís,MA,81
+1325,Rio de Janeiro,RJ,43
+1326,Florianópolis,SC,86
+1327,Rio de Janeiro,RJ,82
+1328,João Pessoa,PB,49
+1329,Belo Horizonte,MG,77
+1330,Cuiabá,MT,6
+1331,Vitória,ES,43
+1332,Vitória,ES,21
+1333,Vitória,ES,86
+1334,São Paulo,SP,95
+1335,Fortaleza,CE,36
+1336,Porto Alegre,RS,81
+1337,Goiânia,GO,87
+1338,Cuiabá,MT,10
+1339,Cuiabá,MT,18
+1340,Florianópolis,SC,24
+1341,Goiânia,GO,3
+1342,Curitiba,PR,81
+1343,Recife,PE,24
+1344,Curitiba,PR,60
+1345,Campo Grande,MS,1
+1346,Manaus,AM,2
+1347,Curitiba,PR,95
+1348,Brasília,DF,53
+1349,Campo Grande,MS,31
+1350,Florianópolis,SC,84
+1351,Fortaleza,CE,17
+1352,Campo Grande,MS,64
+1353,Rio de Janeiro,RJ,98
+1354,Natal,RN,69
+1355,Natal,RN,62
+1356,Porto Alegre,RS,98
+1357,João Pessoa,PB,32
+1358,Florianópolis,SC,66
+1359,João Pessoa,PB,47
+1360,Cuiabá,MT,42
+1361,João Pessoa,PB,80
+1362,Goiânia,GO,16
+1363,Teresina,PI,80
+1364,João Pessoa,PB,44
+1365,Brasília,DF,10
+1366,Florianópolis,SC,63
+1367,São Luís,MA,80
+1368,Salvador,BA,66
+1369,Belém,PA,67
+1370,Natal,RN,47
+1371,Belém,PA,97
+1372,Porto Alegre,RS,86
+1373,Florianópolis,SC,41
+1374,Porto Alegre,RS,31
+1375,Belo Horizonte,MG,70
+1376,Goiânia,GO,96
+1377,São Paulo,SP,65
+1378,Fortaleza,CE,67
+1379,São Paulo,SP,79
+1380,Vitória,ES,94
+1381,Vitória,ES,45
+1382,Belém,PA,2
+1383,Recife,PE,56
+1384,Cuiabá,MT,15
+1385,São Paulo,SP,97
+1386,Porto Alegre,RS,76
+1387,Vitória,ES,80
+1388,Goiânia,GO,72
+1389,Manaus,AM,96
+1390,São Luís,MA,67
+1391,Teresina,PI,45
+1392,Rio de Janeiro,RJ,38
+1393,Brasília,DF,14
+1394,Cuiabá,MT,58
+1395,Vitória,ES,72
+1396,Teresina,PI,33
+1397,Brasília,DF,1
+1398,Vitória,ES,4
+1399,Cuiabá,MT,46
+1400,Teresina,PI,26
+1401,Teresina,PI,82
+1402,Brasília,DF,52
+1403,Rio de Janeiro,RJ,34
+1404,Campo Grande,MS,30
+1405,Manaus,AM,61
+1406,João Pessoa,PB,89
+1407,Belém,PA,94
+1408,Manaus,AM,48
+1409,Cuiabá,MT,41
+1410,Porto Alegre,RS,36
+1411,Fortaleza,CE,93
+1412,Fortaleza,CE,50
+1413,João Pessoa,PB,49
+1414,Belo Horizonte,MG,26
+1415,Cuiabá,MT,20
+1416,Vitória,ES,72
+1417,Goiânia,GO,13
+1418,Campo Grande,MS,17
+1419,Belém,PA,84
+1420,Natal,RN,84
+1421,Vitória,ES,63
+1422,Goiânia,GO,15
+1423,Vitória,ES,46
+1424,Goiânia,GO,67
+1425,Belém,PA,82
+1426,Rio de Janeiro,RJ,4
+1427,Manaus,AM,30
+1428,Fortaleza,CE,63
+1429,Florianópolis,SC,43
+1430,Vitória,ES,45
+1431,Porto Alegre,RS,9
+1432,Rio de Janeiro,RJ,23
+1433,Campo Grande,MS,14
+1434,Salvador,BA,36
+1435,Teresina,PI,79
+1436,Recife,PE,53
+1437,Vitória,ES,91
+1438,Vitória,ES,56
+1439,Cuiabá,MT,83
+1440,São Luís,MA,27
+1441,Brasília,DF,3
+1442,Belo Horizonte,MG,41
+1443,Campo Grande,MS,49
+1444,Fortaleza,CE,86
+1445,Brasília,DF,22
+1446,Recife,PE,42
+1447,Rio de Janeiro,RJ,84
+1448,Florianópolis,SC,68
+1449,Fortaleza,CE,60
+1450,Natal,RN,10
+1451,João Pessoa,PB,6
+1452,Florianópolis,SC,77
+1453,Belo Horizonte,MG,65
+1454,Salvador,BA,63
+1455,São Paulo,SP,32
+1456,Salvador,BA,79
+1457,Curitiba,PR,46
+1458,Florianópolis,SC,33
+1459,Natal,RN,94
+1460,Florianópolis,SC,47
+1461,Goiânia,GO,96
+1462,Natal,RN,50
+1463,Fortaleza,CE,95
+1464,Cuiabá,MT,1
+1465,Vitória,ES,84
+1466,Recife,PE,47
+1467,Curitiba,PR,14
+1468,Recife,PE,30
+1469,Recife,PE,37
+1470,Brasília,DF,69
+1471,São Paulo,SP,96
+1472,Florianópolis,SC,46
+1473,Rio de Janeiro,RJ,32
+1474,Campo Grande,MS,56
+1475,João Pessoa,PB,100
+1476,João Pessoa,PB,2
+1477,Curitiba,PR,100
+1478,Belém,PA,88
+1479,São Paulo,SP,44
+1480,Campo Grande,MS,52
+1481,João Pessoa,PB,18
+1482,Belo Horizonte,MG,94
+1483,Salvador,BA,5
+1484,Florianópolis,SC,12
+1485,Natal,RN,29
+1486,Brasília,DF,71
+1487,Florianópolis,SC,74
+1488,Teresina,PI,81
+1489,São Luís,MA,84
+1490,São Luís,MA,55
+1491,Curitiba,PR,77
+1492,Fortaleza,CE,68
+1493,Rio de Janeiro,RJ,96
+1494,Salvador,BA,74
+1495,Teresina,PI,78
+1496,Campo Grande,MS,10
+1497,Fortaleza,CE,72
+1498,Rio de Janeiro,RJ,1
+1499,Campo Grande,MS,92
+1500,Florianópolis,SC,23
+1501,Curitiba,PR,70
+1502,Curitiba,PR,5
+1503,São Luís,MA,36
+1504,Belo Horizonte,MG,67
+1505,Recife,PE,66
+1506,Teresina,PI,58
+1507,Porto Alegre,RS,2
+1508,Belém,PA,33
+1509,Manaus,AM,18
+1510,Belo Horizonte,MG,68
+1511,Natal,RN,99
+1512,Manaus,AM,81
+1513,Belo Horizonte,MG,80
+1514,Vitória,ES,88
+1515,São Paulo,SP,46
+1516,Vitória,ES,4
+1517,São Paulo,SP,97
+1518,Curitiba,PR,10
+1519,Manaus,AM,61
+1520,Fortaleza,CE,51
+1521,Belo Horizonte,MG,5
+1522,Vitória,ES,51
+1523,Rio de Janeiro,RJ,66
+1524,Goiânia,GO,65
+1525,Salvador,BA,17
+1526,Salvador,BA,77
+1527,Curitiba,PR,22
+1528,Teresina,PI,47
+1529,João Pessoa,PB,100
+1530,João Pessoa,PB,21
+1531,Teresina,PI,88
+1532,São Luís,MA,59
+1533,Belém,PA,30
+1534,Salvador,BA,18
+1535,Rio de Janeiro,RJ,9
+1536,Brasília,DF,10
+1537,Vitória,ES,37
+1538,Teresina,PI,16
+1539,Natal,RN,45
+1540,Brasília,DF,3
+1541,Vitória,ES,6
+1542,Manaus,AM,55
+1543,Florianópolis,SC,91
+1544,Rio de Janeiro,RJ,19
+1545,Cuiabá,MT,49
+1546,Manaus,AM,12
+1547,Vitória,ES,2
+1548,Rio de Janeiro,RJ,35
+1549,Fortaleza,CE,2
+1550,São Luís,MA,24
+1551,Natal,RN,38
+1552,Campo Grande,MS,66
+1553,Teresina,PI,3
+1554,São Luís,MA,93
+1555,Rio de Janeiro,RJ,62
+1556,Recife,PE,23
+1557,Vitória,ES,7
+1558,Teresina,PI,62
+1559,Cuiabá,MT,59
+1560,Cuiabá,MT,84
+1561,Florianópolis,SC,50
+1562,São Luís,MA,13
+1563,Rio de Janeiro,RJ,53
+1564,João Pessoa,PB,97
+1565,Recife,PE,87
+1566,Teresina,PI,32
+1567,Recife,PE,77
+1568,Goiânia,GO,33
+1569,São Luís,MA,21
+1570,Belo Horizonte,MG,83
+1571,Manaus,AM,84
+1572,Manaus,AM,75
+1573,Belém,PA,60
+1574,Fortaleza,CE,72
+1575,Belém,PA,43
+1576,Fortaleza,CE,20
+1577,São Paulo,SP,2
+1578,São Paulo,SP,77
+1579,Goiânia,GO,77
+1580,Goiânia,GO,97
+1581,Florianópolis,SC,86
+1582,Florianópolis,SC,82
+1583,Salvador,BA,40
+1584,Florianópolis,SC,64
+1585,Manaus,AM,32
+1586,Teresina,PI,9
+1587,Florianópolis,SC,32
+1588,Florianópolis,SC,22
+1589,Fortaleza,CE,61
+1590,São Paulo,SP,67
+1591,Curitiba,PR,3
+1592,Goiânia,GO,30
+1593,Campo Grande,MS,97
+1594,Brasília,DF,51
+1595,Rio de Janeiro,RJ,52
+1596,Brasília,DF,38
+1597,Curitiba,PR,19
+1598,João Pessoa,PB,34
+1599,São Luís,MA,6
+1600,Recife,PE,22
+1601,Belém,PA,86
+1602,Recife,PE,35
+1603,Campo Grande,MS,80
+1604,Goiânia,GO,47
+1605,São Luís,MA,2
+1606,Recife,PE,1
+1607,Vitória,ES,13
+1608,Brasília,DF,50
+1609,Salvador,BA,89
+1610,Natal,RN,95
+1611,João Pessoa,PB,45
+1612,Recife,PE,60
+1613,Recife,PE,5
+1614,São Luís,MA,47
+1615,Natal,RN,73
+1616,Brasília,DF,96
+1617,João Pessoa,PB,27
+1618,Rio de Janeiro,RJ,66
+1619,Belém,PA,97
+1620,Goiânia,GO,62
+1621,Porto Alegre,RS,64
+1622,Teresina,PI,74
+1623,Vitória,ES,13
+1624,Goiânia,GO,12
+1625,Salvador,BA,3
+1626,Natal,RN,3
+1627,Brasília,DF,11
+1628,Goiânia,GO,79
+1629,Belo Horizonte,MG,78
+1630,Belém,PA,30
+1631,Campo Grande,MS,6
+1632,Goiânia,GO,11
+1633,Teresina,PI,8
+1634,Campo Grande,MS,16
+1635,Vitória,ES,70
+1636,Rio de Janeiro,RJ,42
+1637,João Pessoa,PB,61
+1638,Curitiba,PR,62
+1639,Natal,RN,25
+1640,Vitória,ES,15
+1641,São Luís,MA,34
+1642,Porto Alegre,RS,19
+1643,Salvador,BA,62
+1644,Curitiba,PR,70
+1645,São Luís,MA,31
+1646,Belo Horizonte,MG,69
+1647,Florianópolis,SC,48
+1648,Cuiabá,MT,24
+1649,Belo Horizonte,MG,25
+1650,São Luís,MA,92
+1651,Goiânia,GO,20
+1652,Cuiabá,MT,73
+1653,Vitória,ES,14
+1654,Natal,RN,80
+1655,Belém,PA,64
+1656,Natal,RN,43
+1657,Rio de Janeiro,RJ,78
+1658,Belo Horizonte,MG,32
+1659,Curitiba,PR,38
+1660,Campo Grande,MS,7
+1661,Natal,RN,82
+1662,Rio de Janeiro,RJ,12
+1663,Campo Grande,MS,22
+1664,São Paulo,SP,49
+1665,Brasília,DF,3
+1666,Belém,PA,63
+1667,Rio de Janeiro,RJ,13
+1668,Porto Alegre,RS,100
+1669,Cuiabá,MT,56
+1670,São Paulo,SP,89
+1671,Goiânia,GO,46
+1672,São Luís,MA,100
+1673,Manaus,AM,11
+1674,Manaus,AM,21
+1675,São Paulo,SP,6
+1676,Salvador,BA,84
+1677,Porto Alegre,RS,99
+1678,Salvador,BA,16
+1679,Vitória,ES,35
+1680,Vitória,ES,24
+1681,São Luís,MA,7
+1682,João Pessoa,PB,83
+1683,Belém,PA,21
+1684,João Pessoa,PB,48
+1685,Goiânia,GO,90
+1686,Manaus,AM,77
+1687,Cuiabá,MT,21
+1688,Salvador,BA,64
+1689,Belém,PA,88
+1690,Cuiabá,MT,84
+1691,Florianópolis,SC,97
+1692,João Pessoa,PB,79
+1693,Natal,RN,48
+1694,João Pessoa,PB,100
+1695,Teresina,PI,33
+1696,Porto Alegre,RS,9
+1697,Goiânia,GO,38
+1698,Brasília,DF,41
+1699,São Luís,MA,68
+1700,João Pessoa,PB,19
+1701,Vitória,ES,98
+1702,Vitória,ES,7
+1703,São Luís,MA,79
+1704,João Pessoa,PB,23
+1705,Rio de Janeiro,RJ,67
+1706,João Pessoa,PB,93
+1707,Manaus,AM,65
+1708,Campo Grande,MS,26
+1709,São Luís,MA,62
+1710,Porto Alegre,RS,32
+1711,Vitória,ES,35
+1712,Vitória,ES,15
+1713,Salvador,BA,64
+1714,Belém,PA,64
+1715,João Pessoa,PB,59
+1716,Florianópolis,SC,29
+1717,João Pessoa,PB,1
+1718,Cuiabá,MT,61
+1719,Natal,RN,13
+1720,Natal,RN,12
+1721,Belém,PA,77
+1722,Goiânia,GO,100
+1723,Natal,RN,2
+1724,Salvador,BA,68
+1725,São Paulo,SP,63
+1726,Recife,PE,35
+1727,Salvador,BA,46
+1728,João Pessoa,PB,36
+1729,Manaus,AM,13
+1730,Teresina,PI,73
+1731,Salvador,BA,43
+1732,Florianópolis,SC,4
+1733,São Paulo,SP,44
+1734,Fortaleza,CE,9
+1735,Manaus,AM,12
+1736,Rio de Janeiro,RJ,33
+1737,Vitória,ES,94
+1738,Cuiabá,MT,97
+1739,Brasília,DF,85
+1740,João Pessoa,PB,20
+1741,Salvador,BA,94
+1742,Cuiabá,MT,44
+1743,São Luís,MA,32
+1744,Recife,PE,59
+1745,Rio de Janeiro,RJ,33
+1746,São Paulo,SP,43
+1747,Belém,PA,96
+1748,Teresina,PI,25
+1749,Cuiabá,MT,2
+1750,Brasília,DF,79
+1751,Rio de Janeiro,RJ,10
+1752,Brasília,DF,42
+1753,Belém,PA,79
+1754,Fortaleza,CE,9
+1755,Florianópolis,SC,87
+1756,Rio de Janeiro,RJ,6
+1757,Fortaleza,CE,82
+1758,Brasília,DF,86
+1759,Recife,PE,88
+1760,Natal,RN,56
+1761,Cuiabá,MT,61
+1762,Goiânia,GO,21
+1763,Goiânia,GO,96
+1764,Natal,RN,45
+1765,Curitiba,PR,73
+1766,Curitiba,PR,83
+1767,Curitiba,PR,20
+1768,Manaus,AM,57
+1769,João Pessoa,PB,79
+1770,Belém,PA,53
+1771,Belém,PA,81
+1772,São Luís,MA,37
+1773,João Pessoa,PB,23
+1774,Teresina,PI,14
+1775,Florianópolis,SC,8
+1776,São Paulo,SP,60
+1777,Curitiba,PR,28
+1778,João Pessoa,PB,53
+1779,Salvador,BA,10
+1780,Curitiba,PR,71
+1781,Recife,PE,41
+1782,Belo Horizonte,MG,42
+1783,Curitiba,PR,86
+1784,Belém,PA,33
+1785,Vitória,ES,45
+1786,Fortaleza,CE,39
+1787,Cuiabá,MT,44
+1788,Porto Alegre,RS,26
+1789,Teresina,PI,88
+1790,Curitiba,PR,9
+1791,Recife,PE,31
+1792,Belo Horizonte,MG,20
+1793,Porto Alegre,RS,63
+1794,Manaus,AM,3
+1795,Salvador,BA,23
+1796,São Paulo,SP,35
+1797,Vitória,ES,55
+1798,São Luís,MA,24
+1799,Goiânia,GO,17
+1800,Florianópolis,SC,45
+1801,São Luís,MA,36
+1802,Teresina,PI,5
+1803,Fortaleza,CE,28
+1804,São Paulo,SP,76
+1805,Belo Horizonte,MG,63
+1806,João Pessoa,PB,9
+1807,Manaus,AM,83
+1808,Brasília,DF,26
+1809,São Paulo,SP,63
+1810,João Pessoa,PB,98
+1811,Manaus,AM,81
+1812,Belém,PA,29
+1813,Curitiba,PR,75
+1814,Natal,RN,40
+1815,Teresina,PI,45
+1816,Belém,PA,9
+1817,Recife,PE,77
+1818,Recife,PE,19
+1819,Teresina,PI,30
+1820,Salvador,BA,57
+1821,Belo Horizonte,MG,29
+1822,Goiânia,GO,30
+1823,Natal,RN,95
+1824,Cuiabá,MT,7
+1825,Recife,PE,18
+1826,Teresina,PI,15
+1827,Rio de Janeiro,RJ,72
+1828,Curitiba,PR,88
+1829,Manaus,AM,14
+1830,João Pessoa,PB,19
+1831,Rio de Janeiro,RJ,36
+1832,São Paulo,SP,49
+1833,Fortaleza,CE,7
+1834,Teresina,PI,70
+1835,Cuiabá,MT,68
+1836,Curitiba,PR,23
+1837,Belo Horizonte,MG,10
+1838,Brasília,DF,53
+1839,João Pessoa,PB,1
+1840,Manaus,AM,29
+1841,Belo Horizonte,MG,43
+1842,Belém,PA,17
+1843,Fortaleza,CE,33
+1844,São Paulo,SP,8
+1845,São Paulo,SP,3
+1846,Salvador,BA,52
+1847,Recife,PE,66
+1848,Teresina,PI,41
+1849,Cuiabá,MT,19
+1850,Salvador,BA,80
+1851,Manaus,AM,75
+1852,Vitória,ES,45
+1853,Rio de Janeiro,RJ,42
+1854,Curitiba,PR,43
+1855,Belém,PA,96
+1856,Salvador,BA,52
+1857,Brasília,DF,96
+1858,Natal,RN,94
+1859,Recife,PE,25
+1860,Cuiabá,MT,90
+1861,Salvador,BA,13
+1862,Goiânia,GO,18
+1863,Salvador,BA,70
+1864,São Paulo,SP,31
+1865,Brasília,DF,3
+1866,Belo Horizonte,MG,14
+1867,Brasília,DF,31
+1868,Cuiabá,MT,28
+1869,João Pessoa,PB,50
+1870,Belém,PA,97
+1871,Belo Horizonte,MG,51
+1872,Manaus,AM,95
+1873,Campo Grande,MS,93
+1874,Vitória,ES,5
+1875,Rio de Janeiro,RJ,3
+1876,Campo Grande,MS,81
+1877,Brasília,DF,9
+1878,Recife,PE,34
+1879,Cuiabá,MT,92
+1880,Porto Alegre,RS,45
+1881,Recife,PE,89
+1882,Cuiabá,MT,79
+1883,Belém,PA,64
+1884,Brasília,DF,58
+1885,Salvador,BA,50
+1886,Manaus,AM,75
+1887,São Luís,MA,55
+1888,Fortaleza,CE,54
+1889,Manaus,AM,34
+1890,Campo Grande,MS,99
+1891,Cuiabá,MT,27
+1892,Florianópolis,SC,83
+1893,Florianópolis,SC,5
+1894,Campo Grande,MS,25
+1895,Natal,RN,62
+1896,Salvador,BA,44
+1897,Florianópolis,SC,61
+1898,São Paulo,SP,41
+1899,São Paulo,SP,79
+1900,Belo Horizonte,MG,82
+1901,Rio de Janeiro,RJ,68
+1902,Curitiba,PR,29
+1903,Rio de Janeiro,RJ,5
+1904,Florianópolis,SC,76
+1905,São Paulo,SP,34
+1906,Vitória,ES,64
+1907,Teresina,PI,85
+1908,Vitória,ES,15
+1909,Florianópolis,SC,52
+1910,Curitiba,PR,75
+1911,Cuiabá,MT,37
+1912,Natal,RN,100
+1913,Recife,PE,18
+1914,Natal,RN,80
+1915,Natal,RN,22
+1916,Fortaleza,CE,47
+1917,Florianópolis,SC,57
+1918,Goiânia,GO,61
+1919,Goiânia,GO,5
+1920,Cuiabá,MT,87
+1921,Recife,PE,32
+1922,Campo Grande,MS,57
+1923,São Luís,MA,64
+1924,Belo Horizonte,MG,72
+1925,Salvador,BA,16
+1926,Fortaleza,CE,89
+1927,Campo Grande,MS,30
+1928,Belém,PA,45
+1929,Cuiabá,MT,17
+1930,Curitiba,PR,26
+1931,São Luís,MA,40
+1932,Campo Grande,MS,19
+1933,Porto Alegre,RS,25
+1934,Porto Alegre,RS,43
+1935,Salvador,BA,58
+1936,Fortaleza,CE,66
+1937,Recife,PE,53
+1938,Fortaleza,CE,80
+1939,Goiânia,GO,17
+1940,Curitiba,PR,53
+1941,Recife,PE,19
+1942,São Luís,MA,77
+1943,São Paulo,SP,53
+1944,Campo Grande,MS,32
+1945,Natal,RN,67
+1946,Vitória,ES,53
+1947,Brasília,DF,2
+1948,Goiânia,GO,91
+1949,Vitória,ES,65
+1950,Teresina,PI,92
+1951,Cuiabá,MT,66
+1952,Rio de Janeiro,RJ,8
+1953,Curitiba,PR,79
+1954,Natal,RN,97
+1955,Salvador,BA,72
+1956,Brasília,DF,31
+1957,Rio de Janeiro,RJ,77
+1958,Belo Horizonte,MG,50
+1959,Belém,PA,87
+1960,Goiânia,GO,72
+1961,Recife,PE,66
+1962,São Luís,MA,70
+1963,São Luís,MA,70
+1964,Vitória,ES,82
+1965,Teresina,PI,41
+1966,Belo Horizonte,MG,42
+1967,São Paulo,SP,59
+1968,Porto Alegre,RS,54
+1969,Belo Horizonte,MG,88
+1970,Natal,RN,2
+1971,Salvador,BA,3
+1972,João Pessoa,PB,31
+1973,Cuiabá,MT,72
+1974,Porto Alegre,RS,74
+1975,João Pessoa,PB,8
+1976,Rio de Janeiro,RJ,13
+1977,Recife,PE,21
+1978,Vitória,ES,81
+1979,Curitiba,PR,61
+1980,Cuiabá,MT,14
+1981,Brasília,DF,75
+1982,Manaus,AM,77
+1983,João Pessoa,PB,28
+1984,São Paulo,SP,75
+1985,São Paulo,SP,42
+1986,Teresina,PI,52
+1987,Goiânia,GO,99
+1988,Salvador,BA,90
+1989,Salvador,BA,84
+1990,São Paulo,SP,22
+1991,Porto Alegre,RS,72
+1992,Belo Horizonte,MG,25
+1993,Belém,PA,7
+1994,Florianópolis,SC,44
+1995,Porto Alegre,RS,97
+1996,Recife,PE,64
+1997,São Luís,MA,53
+1998,São Paulo,SP,83
+1999,Recife,PE,16
+2000,Cuiabá,MT,61
